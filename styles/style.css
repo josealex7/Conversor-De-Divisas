@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+#contenedor_principal {
+    text-align: center;
+}
+
+#contenedor_secundario {
+    display: inline-block;
+    width: 800px;
+    padding: 20px;
+    background-color: rgb(204, 200, 200);
+    border-radius: 5em;
+    border: 1px solid rgb(119, 119, 119);
+}
+
+.botones {
+    color: white;
+    background-color: rgb(50, 153, 64);
+    padding: 8px 50px;
+    border-radius: 0.5em;
+    font-size: 20px;
+    margin: 20px;
+    border: 1px solid rgb(2, 75, 2);
+}
+
+#valor {
+    padding: 8px 140px;
+    text-align: center;
+    border-radius: 0.5em;
+    border: 1px solid gray;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    box-shadow: 1px 2px 0 gray;
+}
+
+.labelvalor {
+    background-color: red;
+}
+
+#contenedor {
+    text-align: center;
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    padding-top: 8px;
+    padding-bottom: 25px;
+    background-color: rgb(163, 163, 163);
+    border-radius: 0.7em;
+    border: 1px double rgb(70, 70, 70);
+    box-shadow: 2px 2px 0 gray;
+}
+
+.combobox {
+    border-radius: 0.5em;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 2px 2px 0 gray;
+}
